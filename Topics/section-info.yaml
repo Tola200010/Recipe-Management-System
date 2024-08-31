@@ -1,0 +1,14 @@
+content:
+  - Reflection basics
+  - Runtime type checking
+  - HashMap
+  - hashCode() and equals()
+  - LocalTime
+  - LocalDateTime
+  - Comparing dates and time
+  - The utility class Collections
+  - Unit testing with JUnit
+  - Test lifecycle annotations
+  - Parameterized test
+  - Factory method
+  - Builder

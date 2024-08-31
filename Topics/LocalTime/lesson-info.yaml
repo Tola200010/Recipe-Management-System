@@ -1,0 +1,11 @@
+content:
+  - Theory
+  - Same time
+  - Get hour
+  - Seconds since start of a day
+  - Millisecond precision
+  - Some hours and minutes ago
+  - Methods of LocalTime
+  - Seconds between two time points
+  - Return time without seconds
+  - Working with time

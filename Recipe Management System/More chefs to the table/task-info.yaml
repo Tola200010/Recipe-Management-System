@@ -1,0 +1,81 @@
+type: edu
+files:
+  - name: src/recipes/RecipesApplication.java
+    visible: true
+    learner_created: false
+  - name: src/resources/application.properties
+    visible: true
+    learner_created: false
+  - name: build.gradle
+    visible: true
+    learner_created: false
+  - name: test/RecipesApplicationTest.java
+    visible: false
+    learner_created: false
+  - name: src/recipes/exceiption/NotFoundException.java
+    visible: true
+    learner_created: true
+  - name: src/recipes/dto/RecipeResponseDto.java
+    visible: true
+    learner_created: true
+  - name: src/recipes/services/RecipeService.java
+    visible: true
+    learner_created: true
+  - name: src/recipes/models/Recipe.java
+    visible: true
+    learner_created: true
+  - name: src/recipes/repositories/RecipeRepository.java
+    visible: true
+    learner_created: true
+  - name: src/recipes/exceiption/GlobalException.java
+    visible: true
+    learner_created: true
+  - name: src/recipes/controllers/RecipesController.java
+    visible: true
+    learner_created: true
+  - name: src/recipes/dto/RecipeRequestDto.java
+    visible: true
+    learner_created: true
+  - name: src/recipes/models/AppUser.java
+    visible: true
+    learner_created: true
+  - name: src/recipes/config/SecurityConfig.java
+    visible: true
+    learner_created: true
+  - name: src/recipes/repositories/UserRepository.java
+    visible: true
+    learner_created: true
+  - name: src/recipes/services/UserService.java
+    visible: true
+    learner_created: true
+  - name: src/recipes/services/UserDetailServiceImpl.java
+    visible: true
+    learner_created: true
+  - name: src/recipes/services/UserAdapter.java
+    visible: true
+    learner_created: true
+  - name: src/recipes/dto/UserRegisterRequestDto.java
+    visible: true
+    learner_created: true
+  - name: src/recipes/exceiption/BadRequestException.java
+    visible: true
+    learner_created: true
+  - name: src/recipes/controllers/UserController.java
+    visible: true
+    learner_created: true
+  - name: src/recipes/exceiption/ActionNotAllowException.java
+    visible: true
+    learner_created: true
+  - name: src/recipes/utils/ValidEmail.java
+    visible: true
+    learner_created: true
+  - name: src/recipes/utils/EmailValidator.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/13092#comment
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Sat, 31 Aug 2024 07:39:36 UTC"
+record: -1

@@ -1,0 +1,13 @@
+type: code
+custom_name: Builder
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5201#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 30 Aug 2024 16:03:21 UTC"
+record: -1
+submission_language: java17

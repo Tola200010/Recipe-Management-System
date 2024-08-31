@@ -1,0 +1,26 @@
+type: matching
+captions:
+  - Collections.singleton(...)
+  - Collections.shuffle(...)
+  - Collections.frequency(...)
+  - Collections.swap(...)
+  - Collections.disjoint(...)
+options:
+  - returns true if the two collections have no common elements.
+  - permutes the elements at the specified positions in the list
+  - randomly permutes elements of the list
+  - creates a set containing only one element
+  - returns the number of elements in the collection equal to the given object
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2353#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4
